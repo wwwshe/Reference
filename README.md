@@ -103,6 +103,10 @@ https://github.com/yonaskolb/XcodeGen
 #### Swift 스타일 및 규칙을 적용하는 도구
 https://github.com/realm/SwiftLint
 
+### Kin
+#### Xcode 프로젝트 검사 툴
+https://github.com/Serchinastico/Kin
+
 ## Reference
 참고 사이트
 
