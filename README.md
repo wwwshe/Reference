@@ -23,6 +23,10 @@ https://github.com/layoutBox/PinLayout
 #### CSS FlexBox Style Layout
 https://github.com/layoutBox/FlexLayout
 
+### SkeletonView
+#### Skeleton 라이브러리
+https://github.com/Juanpe/SkeletonView
+
 ### Carte
 #### open source license 툴
 https://github.com/devxoul/Carte
@@ -91,6 +95,10 @@ https://github.com/Romixery/SwiftStomp
 ### Then
 #### Swift 생성자 클로저 라이브러리
 https://github.com/devxoul/Then
+
+### Needle
+#### Swift DI(의존성주입) 라이브러리
+https://github.com/uber/needle
 
 ## Tool 
 각종 Tool
