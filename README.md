@@ -35,6 +35,10 @@ https://github.com/devxoul/Carte
 #### 페이스북 뷰 로딩 라이브러리
 https://github.com/facebookarchive/Shimmer
 
+### SkeletonView
+#### 스켈레톤 로딩 라이브러리
+https://github.com/Juanpe/SkeletonView
+
 ## String
 String 관련 라이브러리
 ### Bonmot
