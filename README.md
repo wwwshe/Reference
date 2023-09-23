@@ -130,6 +130,9 @@ https://github.com/Serchinastico/Kin
 #### XCode Copilot 플러그인
 https://github.com/intitni/CopilotForXcode
 
+### Swift 벤치마크 라이브러리
+https://github.com/google/swift-benchmark
+
 ## Reference
 참고 사이트
 
