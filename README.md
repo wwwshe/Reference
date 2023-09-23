@@ -147,3 +147,8 @@ https://github.com/tailec/ios-architecture
 
 ### Extension 모음
 https://github.com/SwifterSwift/SwifterSwift
+
+### apple swift 라이브러리
+https://github.com/apple/swift-http-types
+https://github.com/apple/swift-async-algorithms
+https://github.com/apple/swift-algorithms
