@@ -72,9 +72,13 @@ https://github.com/morizotter/TouchVisualizer
 #### 인앱 디버깅 툴
 https://github.com/FLEXTool/FLEX
 
-## Nuke
+### Nuke
 #### 이미지 url 로딩 라이브러리
 https://github.com/kean/Nuke
+
+### LicensePlist
+#### 오픈소스 라이센스를 Setting Bundle로 만들어주는 툴
+https://github.com/mono0926/LicensePlist
 
 ## Rx 
 Rx 관련 라이브러리
@@ -132,6 +136,18 @@ https://github.com/intitni/CopilotForXcode
 
 ### Swift 벤치마크 라이브러리
 https://github.com/google/swift-benchmark
+
+### periphery
+#### 사용하지 않고있는 코드 검사 툴
+https://github.com/peripheryapp/periphery
+
+### SwiftFormat
+#### Swfit문법에 맞게 소스를 수정해주는 툴
+https://github.com/nicklockwood/SwiftFormat
+
+### xcbeautify
+#### UnitTest CLI 툴
+https://github.com/cpisciotta/xcbeautify
 
 ## Reference
 참고 사이트
