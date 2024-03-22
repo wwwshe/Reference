@@ -177,3 +177,7 @@ https://github.com/apple/swift-algorithms
 
 ### apple build Setting Docs
 https://developer.apple.com/documentation/xcode/build-settings-reference
+
+### open-source-mac-os-apps
+#### 각종 맥 오픈소스 리스트
+https://github.com/serhii-londar/open-source-mac-os-apps
