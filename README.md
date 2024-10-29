@@ -184,3 +184,6 @@ https://github.com/serhii-londar/open-source-mac-os-apps
 
 ### 소스코드를 블로그화 해주는 툴
 https://devpost-download.framer.website/
+
+### 애플 에러코드 검색 사이트
+https://osstatus.com
