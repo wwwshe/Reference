@@ -174,6 +174,7 @@ https://github.com/SwifterSwift/SwifterSwift
 https://github.com/apple/swift-http-types
 https://github.com/apple/swift-async-algorithms
 https://github.com/apple/swift-algorithms
+https://github.com/apple/swift-collections
 
 ### apple build Setting Docs
 https://developer.apple.com/documentation/xcode/build-settings-reference
