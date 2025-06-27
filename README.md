@@ -149,6 +149,10 @@ https://github.com/nicklockwood/SwiftFormat
 #### UnitTest CLI 툴
 https://github.com/cpisciotta/xcbeautify
 
+## DebugSwift
+#### Swift Debug 라이브러리
+https://github.com/DebugSwift/DebugSwift
+
 ## Reference
 참고 사이트
 
